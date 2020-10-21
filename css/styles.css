@@ -40,3 +40,7 @@ p {
         width: 15%; 
     
 }
+
+.gtg:hover {
+    background-color: lightgray;
+}
