@@ -1,5 +1,5 @@
 let myCharacter;
-const path="../assets/sounds/";
+const path="./assets/sounds/";
 const gravity = 1;
 const numColors = 100;
 const bgCol = 0;
